@@ -1,7 +1,7 @@
 // Global
 const fs = require('fs');
 const inquirer = require('inquirer');
-const util = require('util');
+const util = require('utils');
 
 // Internal NPMs
 const api = require('./utils/api.js');
